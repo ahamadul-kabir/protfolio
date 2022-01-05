@@ -1,0 +1,126 @@
+body {
+  font-family: "EB Garamond", serif;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.head {
+  border-left: 5px solid #00b894;
+  padding-left: 10px;
+  font-size: 50px;
+  font-weight: 800;
+}
+.head span {
+  color: #1abc9c;
+}
+.main {
+  display: flex;
+  margin: 50px 50px;
+}
+.first-section {
+  width: 50%;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+.first-section img {
+  width: 55%;
+  margin-top: 50px;
+  margin-left: 200px;
+  border-radius: 20px;
+}
+.first-section p {
+  text-align: justify;
+}
+.hire {
+  background-color: #00b894;
+  padding: 15px 50px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+}
+.mission-head {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+.mission-head span {
+  color: #00b894;
+}
+.mission-list {
+  margin: 20px 75px 5px 200px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.mission-list p {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: justify;
+}
+.mission-list img {
+  width: 50%;
+}
+.mission {
+  display: flex;
+}
+.mission-list {
+  width: 50%;
+}
+.mission-list {
+  width: 80%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 60px white;
+  border-radius: 20px;
+  padding: 10px 50px;
+}
+.fir {
+  background-color: #ccfff2;
+}
+.sec {
+  background-color: #ccf2ff;
+}
+.thi {
+  background-color: #f2e6ff;
+}
+.webDevo img {
+  width: 60%;
+  margin-top: 30px;
+  margin-left: 200px;
+  border-radius: 20px;
+}
+.project-head {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+.project-head span {
+  color: #00b894;
+}
+.tra {
+  color: #f79f1f;
+}
+.footer {
+  background-color: black;
+  padding: 100px;
+}
+.footer div h3 {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  color: white;
+}
+.footer div p {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-size: 20px;
+  color: white;
+}
+
+.copy {
+  color: #00b894;
+}
